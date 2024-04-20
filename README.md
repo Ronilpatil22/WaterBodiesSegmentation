@@ -11,6 +11,6 @@ How To Execute the Code:
 
 
 Contributors
-Ronil Patil(210001060)
-Yash Chandramore(210001011)
-Vishal Naik(210001014)
+*Ronil Patil(210001060)
+*Yash Chandramore(210001011)
+*Vishal Naik(210001014)
