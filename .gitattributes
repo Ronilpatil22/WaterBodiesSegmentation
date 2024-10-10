@@ -1,0 +1,2 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+unet_plus_plus_model/unet_plus_plus_500_epochs.h5 filter=lfs diff=lfs merge=lfs -text
