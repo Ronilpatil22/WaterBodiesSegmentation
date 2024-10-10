@@ -8,7 +8,7 @@ from matplotlib.gridspec import GridSpec
 
 # Load your trained model
 model1 = tf.keras.models.load_model('./unet_model/unet_100_epochs.h5')
-model2 = tf.keras.models.load_model('./unet_model/unet_100_epochs.h5')  
+model2 = tf.keras.models.load_model('./unet_model/unet_500_epochs.h5')  
 
 # Define constants for image size
 IMG_HEIGHT = 256
